@@ -134,6 +134,6 @@ The dashboard provides procurement managers and business leaders with actionable
 
 **Chibuike Henry Igwebuike**
 
-Operations & Supply Chain Analytics Portfolio
+Operations Manager | Supply Chain Analytics | Procurement Analytics | Power BI
 
 GitHub Portfolio: https://github.com/CHI-analytics
