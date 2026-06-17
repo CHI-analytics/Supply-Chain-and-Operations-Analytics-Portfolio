@@ -2,48 +2,138 @@
 
 ![Procurement Dashboard](Procurement_Performance_Dashboard.png)
 
-## Project Overview
+## Executive Summary
 
-This project analyzes procurement performance data to provide insights into supplier management, procurement spend, purchase trends, lead times, and overall sourcing efficiency.
+This Procurement Performance Dashboard provides a comprehensive view of procurement operations, supplier performance, purchasing trends, and delivery efficiency. The dashboard enables procurement and supply chain managers to monitor key procurement KPIs, identify high-performing suppliers, analyze spending patterns, and improve sourcing decisions through data-driven insights.
 
-The dashboard is designed to support procurement and supply chain decision-making through data-driven insights and KPI monitoring.
+---
 
 ## Business Problem
 
-Organizations rely on effective procurement processes to control costs, maintain supplier performance, and ensure timely product availability.
+Procurement teams require visibility into supplier performance, procurement spending, and delivery reliability to effectively manage costs and maintain operational efficiency.
 
-This dashboard helps answer key questions:
+Without centralized reporting, organizations may struggle to:
 
-* Who are the top suppliers by spend?
-* What are the procurement cost trends?
-* Which suppliers have the shortest and longest lead times?
-* How efficient is the procurement process?
-* What opportunities exist for cost optimization?
+- Monitor procurement expenditures
+- Evaluate supplier performance
+- Identify procurement bottlenecks
+- Track delivery reliability
+- Optimize sourcing strategies
 
-## Tools Used
+This dashboard addresses these challenges by consolidating procurement data into an interactive performance monitoring solution.
 
-* Power BI
-* Excel
-* SQL
-* DAX
+---
 
-## Key Metrics
+## Dashboard Preview
 
-* Total Procurement Spend
-* Purchase Orders
-* Supplier Performance
-* Average Lead Time
-* Procurement Cost Trends
-* Top Suppliers by Spend
+![Procurement Dashboard](Procurement_Performance_Dashboard.png)
+
+---
+
+## Key Performance Indicators (KPIs)
+
+The dashboard tracks the following procurement metrics:
+
+- Total Procurement Spend
+- Total Purchase Orders
+- Average Lead Time
+- Supplier Count
+- On-Time Delivery Rate
+
+---
+
+## Key Business Questions
+
+This dashboard helps answer critical procurement questions such as:
+
+- Who are the highest-spend suppliers?
+- How has procurement spending changed over time?
+- Which suppliers have the longest and shortest lead times?
+- What percentage of deliveries arrive on time?
+- Which product categories drive the highest procurement costs?
+- Where are opportunities for supplier and procurement optimization?
+
+---
 
 ## Dashboard Features
 
-* Procurement Overview
-* Supplier Performance Analysis
-* Lead Time Analysis
-* Spend Analysis
-* Procurement KPI Monitoring
+### Executive Procurement Overview
+Provides a high-level summary of procurement performance and operational KPIs.
+
+### Procurement Spend Trend Analysis
+Tracks procurement spending across monthly periods to identify purchasing patterns and trends.
+
+### Supplier Spend Analysis
+Highlights suppliers contributing the highest procurement expenditures.
+
+### Lead Time Performance Analysis
+Compares supplier lead times to identify sourcing and delivery inefficiencies.
+
+### Product Category Spend Analysis
+Analyzes procurement spend by product category to support purchasing decisions.
+
+### Delivery Performance Monitoring
+Evaluates on-time, delayed, and early deliveries to assess supplier reliability.
+
+---
+
+## Key Insights
+
+Key insights generated from the dashboard include:
+
+- Procurement spending exceeded $98M during the analysis period.
+- A small number of suppliers account for the majority of procurement expenditure.
+- On-time delivery performance exceeded 70%.
+- Lead times vary significantly between suppliers, indicating opportunities for supplier optimization.
+- Pipes and fittings represent the largest procurement spend categories.
+
+---
+
+## Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Excel
+- Data Modeling
+- Data Visualization
+
+---
+
+## Skills Demonstrated
+
+This project demonstrates:
+
+- Business Intelligence Reporting
+- Procurement Analytics
+- Supply Chain Analytics
+- KPI Development
+- Data Modeling
+- DAX Measures
+- Dashboard Design
+- Data Visualization
+- Performance Analysis
+- Executive Reporting
+
+---
 
 ## Business Value
 
-The dashboard provides visibility into procurement operations and supports informed decision-making related to supplier management, cost control, and operational efficiency.
+The dashboard provides procurement managers and business leaders with actionable insights to:
+
+- Improve supplier management
+- Reduce procurement costs
+- Monitor procurement efficiency
+- Track delivery performance
+- Support strategic sourcing decisions
+- Improve overall supply chain performance
+
+---
+
+## Author
+
+**Chibuike Henry Igwebuike**
+
+Operations & Supply Chain Analytics Portfolio
+
+GitHub Portfolio: https://github.com/CHI-analytics
