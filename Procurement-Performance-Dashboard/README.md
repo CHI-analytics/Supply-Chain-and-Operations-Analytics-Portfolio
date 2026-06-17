@@ -1,5 +1,7 @@
 # Procurement Performance Dashboard
 
+![Procurement Dashboard](Procurement_Performance_Dashboard.png)
+
 ## Project Overview
 
 This project analyzes procurement performance data to provide insights into supplier management, procurement spend, purchase trends, lead times, and overall sourcing efficiency.
